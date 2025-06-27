@@ -1,0 +1,26 @@
+{
+    "asraf45@gamma.com": [
+        {
+            "id": "1751035570.061079",
+            "sender": "user@gamma.com",
+            "recipient": "asraf45@gamma.com",
+            "subject": "testing on Uncontact",
+            "body": "This message will got to uncontact.",
+            "timestamp": "2025-06-27 20:46:10",
+            "read": true,
+            "folder": "uncontact"
+        }
+    ],
+    "user@gamma.com": [
+        {
+            "id": "1751035700.820633",
+            "sender": "asraf45@gamma.com",
+            "recipient": "user@gamma.com",
+            "subject": "Testing 2",
+            "body": "This email will go to indox.",
+            "timestamp": "2025-06-27 20:48:20",
+            "read": true,
+            "folder": "inbox"
+        }
+    ]
+}

@@ -1,0 +1,6 @@
+From: asraf45@gamma.com
+To: user@gamma.com
+Date: 2025-06-27 20:48:20
+Subject: Testing 2
+
+This email will go to indox.

@@ -1,0 +1,16 @@
+{
+    "asraf45@gamma.com": {
+        "contacts": [
+            "user@gamma.com"
+        ],
+        "pending_requests": [],
+        "sent_requests": []
+    },
+    "user@gamma.com": {
+        "contacts": [
+            "asraf45@gamma.com"
+        ],
+        "pending_requests": [],
+        "sent_requests": []
+    }
+}
