@@ -105,3 +105,68 @@ Message: Hi there, this is Gamma Mail!</code></pre>
 
 <details>
 <summary><b>📁 Project Structure</b></summary>
+
+```
+gamma-mail/
+├── models/           # Data models and database
+│   ├── user.py       # User operations
+│   ├── email.py      # Email storage
+│   └── contact.py    # Contact management
+├── services/         # Business logic
+│   ├── auth_service.py     # Auth operations
+│   ├── mail_service.py     # Email logic
+│   └── contact_service.py  # Contact logic
+├── utils/            # Helpers
+│   └── helpers.py    # UI utilities
+├── main.py           # Entry point
+└── README.md         # Documentation
+```
+</details>
+
+<br>
+
+<div style="display: flex; gap: 20px; flex-wrap: wrap;">
+  <div style="flex: 1; min-width: 300px;">
+    <h4>📊 Data Flow</h4>
+    <img src="https://via.placeholder.com/400x300?text=Data+Flow+Diagram" alt="Data Flow" width="100%">
+  </div>
+  <div style="flex: 1; min-width: 300px;">
+    <h4>🔗 Dependencies</h4>
+    <ul>
+      <li>Models → JSON files</li>
+      <li>Services → Models</li>
+      <li>Main → Services</li>
+    </ul>
+  </div>
+</div>
+
+<br>
+
+<h2 id="contributing">🤝 Contributing</h2>
+
+<p>We welcome contributions! Please follow these steps:</p>
+
+<div style="background: #f5f5f5; padding: 15px; border-radius: 5px;">
+  <ol>
+    <li>Fork the project</li>
+    <li>Create your feature branch (<code>git checkout -b feature/AmazingFeature</code>)</li>
+    <li>Commit your changes (<code>git commit -m 'Add some AmazingFeature'</code>)</li>
+    <li>Push to the branch (<code>git push origin feature/AmazingFeature</code>)</li>
+    <li>Open a Pull Request</li>
+  </ol>
+</div>
+
+<br>
+
+<h2 id="license">📜 License</h2>
+
+<div style="text-align: center; padding: 20px; background: #f0f8ff; border-radius: 5px;">
+  <p>Distributed under the MIT License. See <code>LICENSE</code> for more information.</p>
+  <p>© 2023 Gamma Mail Project</p>
+</div>
+
+<div align="center" style="margin-top: 40px;">
+  <h3>🌟 Star this project on GitHub!</h3>
+  <p>If you find this project useful, please consider giving it a star ⭐</p>
+</div>
+```
