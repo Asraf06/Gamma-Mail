@@ -8,7 +8,7 @@
     <img src="https://img.shields.io/badge/Status-Stable-brightgreen" alt="Status">
   </p>
   
-  <img src="https://imgur.com/DFY7gNT" alt="Gamma Mail Screenshot" width="80%">
+  <img src="https://i.imgur.com/DFY7gNT.jpeg" alt="Gamma Mail Screenshot" width="80%">
 </div>
 
 <br>
