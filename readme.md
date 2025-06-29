@@ -8,7 +8,7 @@
     <img src="https://img.shields.io/badge/Status-Stable-brightgreen" alt="Status">
   </p>
   
-  <img src="https://via.placeholder.com/800x400?text=Gamma+Mail+Screenshot" alt="Gamma Mail Screenshot" width="80%">
+  <img src="https://imgur.com/DFY7gNT" alt="Gamma Mail Screenshot" width="80%">
 </div>
 
 <br>
@@ -158,10 +158,6 @@ gamma-mail/
 
 <br>
 
-<h2 id="license">📜 License</h2>
-
-<div style="text-align: center; padding: 20px; background: #f0f8ff; border-radius: 5px;">
-  <p>Distributed under the MIT License. See <code>LICENSE</code> for more information.</p>
   <p>© 2025 Gamma Mail Project</p>
 </div>
 
@@ -169,4 +165,3 @@ gamma-mail/
   <h3>🌟 Star this project on GitHub!</h3>
   <p>If you find this project useful, please consider giving it a star ⭐</p>
 </div>
-```
