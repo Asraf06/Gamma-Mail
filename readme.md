@@ -162,7 +162,7 @@ gamma-mail/
 
 <div style="text-align: center; padding: 20px; background: #f0f8ff; border-radius: 5px;">
   <p>Distributed under the MIT License. See <code>LICENSE</code> for more information.</p>
-  <p>© 2023 Gamma Mail Project</p>
+  <p>© 2025 Gamma Mail Project</p>
 </div>
 
 <div align="center" style="margin-top: 40px;">
