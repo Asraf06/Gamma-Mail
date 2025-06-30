@@ -127,10 +127,6 @@ gamma-mail/
 
 <div style="display: flex; gap: 20px; flex-wrap: wrap;">
   <div style="flex: 1; min-width: 300px;">
-    <h4>📊 Data Flow</h4>
-    <img src="https://via.placeholder.com/400x300?text=Data+Flow+Diagram" alt="Data Flow" width="100%">
-  </div>
-  <div style="flex: 1; min-width: 300px;">
     <h4>🔗 Dependencies</h4>
     <ul>
       <li>Models → JSON files</li>
